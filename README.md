@@ -8,7 +8,7 @@ EC2 Instance: Ubuntu, Apache, PHP
 RDS: MySQL database
 Security Groups: HTTP/HTTPS/SSH for EC2, MySQL (3306) for RDS
 
-('docs/architecture.png')
+[Architecture Diagram](docs/architecture.png)
 
 Steps Implemented
 1. Provisioned EC2 instance and installed dependencies.
