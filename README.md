@@ -5,8 +5,11 @@ Overview
 This project demonstrates deploying PrestaShop on AWS using EC2 for the application and RDS for the database, leveraging only free-tier resources.
 
  Architecture
+ 
 EC2 Instance: Ubuntu, Apache, PHP
+
 RDS: MySQL database
+
 Security Groups: HTTP/HTTPS/SSH for EC2, MySQL (3306) for RDS
 
 ![Architecture Diagram](docs/architecture.png)
