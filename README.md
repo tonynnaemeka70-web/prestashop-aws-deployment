@@ -1,6 +1,7 @@
 PrestaShop Deployment on AWS
 
 Overview
+
 This project demonstrates deploying PrestaShop on AWS using EC2 for the application and RDS for the database, leveraging only free-tier resources.
 
  Architecture
