@@ -25,4 +25,4 @@ Public URL
  Back Office:(admin panel) http://3.15.156.167/admin7331nm7wto41w9snhgi
 
 Author
-Tony — Cyber Security specialist
+Tony Nnaemeka — Cyber Security specialist / SOC Analyst
