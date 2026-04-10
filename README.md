@@ -22,6 +22,7 @@ Steps Implemented
 5. Verified Front Office and Back Office access.
 
 Screenshots
+
 See `/docs/screenshots` for AWS Console, EC2 terminal, and PrestaShop installer steps.
 
 Public URL
